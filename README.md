@@ -34,7 +34,7 @@ kernelmesh-os/
 ### Build Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kernelmesh-os.git
+git clone https://github.com/elrt/KernelMesh
 cd kernelmesh-os
 
 # Make build script executable
