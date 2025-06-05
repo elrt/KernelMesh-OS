@@ -1,5 +1,5 @@
 # KernelMesh OS
-
+![alt text](https://github.com/elrt/KernelMesh/blob/22099dc3336698265cbb469f9f54ac85366cf3d2/screenshots/photo_5336883528757015858_x.jpg)
 A simple educational operating system with a basic file system and command shell.
 
 ## Features
