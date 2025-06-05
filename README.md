@@ -59,19 +59,3 @@ qemu-system-x86_64 -drive format=raw,file=disk/kernelmesh.img
 - `del <name>` - Delete file
 - `reboot` - Reboot system
 
-## Adding Screenshots to Your Repository
-
-1. Create a screenshots directory:
-```bash
-mkdir screenshots
-```
-
-2. Take screenshots during QEMU operation:
-- Linux: Use screenshot tool (PrintScreen key)
-- Windows: Alt+PrintScreen to capture QEMU window
-
-3. Save screenshots in PNG format to the screenshots directory:
-- `boot.png` - OS booting screen
-- `files.png` - File operations example
-- `shell.png` - Shell command examples
-
