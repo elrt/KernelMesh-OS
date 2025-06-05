@@ -21,6 +21,8 @@ kernelmesh-os/
 └── build.sh           # Build script
 ```
 
+![alt text](https://github.com/elrt/KernelMesh/blob/a0374b911a9fa2c7caaeae149695b3ca6f9ede86/screenshots/photo_5336883528757015858_x.jpg)
+
 ## Building and Running
 
 ### Requirements
