@@ -1,7 +1,7 @@
 # KernelMesh OS
 ![alt text](https://github.com/elrt/KernelMesh/blob/77b18c942fd4dc2790dd29bf329b1b3c8a81314e/screenshots/photo_5336883528757015899_x.jpg)
 
-A simple operating system with a basic file system(FAT16) and command shell.
+A simple operating system with a basic file system(FAT12) and command shell.
 
 ## Features
 
